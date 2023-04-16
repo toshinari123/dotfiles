@@ -133,8 +133,8 @@ lua require('config')
 
 :highlight Pmenu ctermbg=111 guibg=111
 
-let g:python3_host_prog='C:/Users/toshi/AppData/Local/Programs/Python/Python311/python.exe'
-let g:python_host_prog='C:/Users/toshi/AppData/Local/Programs/Python/Python311/python.exe'
+let g:python3_host_prog='C:\Users\toshi\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe'
+let g:python_host_prog='C:/users/toshi/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0/python.exe'
 
 let g:UltiSnipsExpandTrigger       = '<Tab>'    " use Tab to expand snippets
 let g:UltiSnipsJumpForwardTrigger  = '<Tab>'    " use Tab to move forward through tabstops
